@@ -3,7 +3,7 @@
 ### DATE COMMAND OUTPUT
 ![date command output](mdate+%d.png)   
 ### DATE COMMAND MANUAL
-![date command manual](manualdate.png)
+![date command manual](manual date.png)
 ### DATE TIME COMMAND OUTPUT
 ![date time command output](mdate.png)
 ### DATE TIME COMMAND MANUAL
