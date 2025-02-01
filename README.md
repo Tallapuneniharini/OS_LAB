@@ -110,7 +110,7 @@
 ### CP COMMAND MANUAL
 ![cp command manual](manualcp.png.png)
 ### CP -I COMMAND OUTPUT
-![cp -i command output](mcp-isrcdes.png)
+![cp -i command output](mcp-isrcdes.png.png)
 ### CP -I COMMAND MANUAL
 ![cp -i command manual](manualcp.png.png)
 ### CP -R COMMAND OUTPUT
