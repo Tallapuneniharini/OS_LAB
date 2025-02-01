@@ -95,7 +95,7 @@
 ### RMDIR COMMAND OUTPUT
 ![rmdir command output](mrm1.png)
 ### RMDIR COMMAND MANUAL
-![rmdir command manual](mrmdir.png)
+![rmdir command manual](manualrmdir.png.png)
 ## FILE COMMANDS
 ### CAT COMMAND OUTPUT
 ![cat command output](mcatfilename.png)
