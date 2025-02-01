@@ -134,7 +134,7 @@
 ### RM * COMMAND MANUAL
 ![rm * command manual](manualrm.png.png)
 ### RM -R * COMMAND OUTPUT
-![rm -r * command output](mrm-r2.png)
+![rm -r * command output](mrm-r2.png.png)
 ### RM * COMMAND MANUAL
 ![rm -r * command manual](manualrm.png.png)
 ### RM -F * COMMAND OUTPUT
