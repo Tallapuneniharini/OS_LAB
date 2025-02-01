@@ -174,8 +174,8 @@
 ### CHMOD COMMAND MANUAL
 ![chmod command manual](manualchmod.png.png)
 
-#CONCLUSION: The Study And Execution Of Unix Commands Has Been Completed Successfully.
 
 
 
-# The Study And Execution Of Unix Commands Has Been Completed Successfully.
+
+# CONCLUSION :The Study And Execution Of Unix Commands Has Been Completed Successfully.
