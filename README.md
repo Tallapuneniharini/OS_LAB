@@ -170,7 +170,7 @@
 ### CMP COMMAND MANUAL
 ![cmp command manual](manualcmp.png.png)
 ### CHMOD COMMAND OUTPUT
-![chmod command output](mchmodg-rfile.png)
+![chmod command output](mchmodg-rfile.png.png)
 ### CHMOD COMMAND MANUAL
 ![chmod command manual](manualchmod.png.png)
 
