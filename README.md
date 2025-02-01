@@ -53,7 +53,7 @@
 ### UNAME-N COMMAND MANUAL
 ![uname-n command manual](manualuname.png.png)
 ### ECHO COMMAND OUTPUT
-![echo command output](mecho.png)
+![echo command output](mechotxt.png)
 ### ECHO COMMAND MANUAL
 ![echo command manual](manualecho.png.png)
 ### ECHO $ COMMAND OUTPUT
