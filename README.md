@@ -1,7 +1,7 @@
 # BASIC UNIX COMMANDS PRACTISE OUTPUT
 ## GENERAL  COMMANDS OUTPUTS 
 ### DATE COMMAND OUTPUT
-![date command output](mdate+%d.png)   
+![date command output](mdate +%d.png)   
 ### DATE COMMAND MANUAL
 ![date command manual](manualdate.png)
 ### DATE TIME COMMAND OUTPUT
@@ -9,11 +9,11 @@
 ### DATE TIME COMMAND MANUAL
 ![date time command manual](manualdate.png)
 ### DATE YEAR COMMAND OUTPUT
-![date year command output](mdate+%Y.png)
+![date year command output](mdate +%Y.png)
 ### DATE YEAR COMMAND MANUAL
 ![date year command manual](manualdate.png)
 ### DATE HOUR COMMAND OUTPUT
-![date hour command output](mdate+%H.png)
+![date hour command output](mdate +%H.png)
 ### DATE HOUR COMMAND MANUAL
 ![date hour command manual](manualdate.png)
 ### CAL COMMAND OUTPUT
@@ -21,11 +21,11 @@
 ### CAL COMMAND MANUAL
 ![cal command manual](manualcal.png)
 ### CAL-YEAR COMMAND OUTPUT
-![cal-year command output](mcalyear.png)
+![cal-year command output](mcal year.png)
 ### CAL-YEAR COMMAND MANUAL
 ![cal-year command manual](manualcal.png)
 ### CAL-MONTH COMMAND OUTPUT
-![cal-month command output](mcalmonth.png)
+![cal-month command output](mcal month.png)
 ### CAL-MONTH COMMAND MANUAL
 ![cal-month command manual](manualcal.png)
 ### WHO COMMAND OUTPUT 
@@ -33,7 +33,7 @@
 ### WHO COMMAND MANUAL
 ![who command manual](manualwho.png)
 ### WHO AM I COMMAND OUTPUT 
-![who am i command output](mwhoami.png)
+![who am i command output](mwho ami.png)
 ### WHO AM I COMMAND MANUAL
 ![who am i command manual](manualwhoami.png)
 ### TTY COMMAND OUTPUT -TERMINAL NAME-
