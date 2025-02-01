@@ -72,7 +72,7 @@
 ### HISTORY COMMAND MANUAL 
 ![history command manual](manualhistory.png.png)
 ### EXIT COMMAND OUTPUT
-![exit command output](mexit.png)
+![exit command output](mexit.png.png)
 ### EXIT COMMAND MANUAL
 ![exit command manual](manualexit.png.png)
 ## DIRECTIORY COMMANDS
