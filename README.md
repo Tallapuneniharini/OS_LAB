@@ -1,19 +1,19 @@
 # BASIC UNIX COMMANDS PRACTISE OUTPUT
 ## GENERAL  COMMANDS OUTPUTS 
 ### DATE COMMAND OUTPUT
-![date command output](mdate+%d.png)   
+![date command output](mdate.png)   
 ### DATE COMMAND MANUAL
 ![date command manual](manualdate.png.png)
 ### DATE TIME COMMAND OUTPUT
-![date time command output](mdate+%T.png)
+![date time command output](mdate1.png)
 ### DATE TIME COMMAND MANUAL
 ![date time command manual](manualdate.png.png)
 ### DATE YEAR COMMAND OUTPUT
-![date year command output](mdate+%Y.png)
+![date year command output](mdate2.png)
 ### DATE YEAR COMMAND MANUAL
 ![date year command manual](manualdate.png.png)
 ### DATE HOUR COMMAND OUTPUT
-![date hour command output](mdate+%H.png)
+![date hour command output](mdate3.png)
 ### DATE HOUR COMMAND MANUAL
 ![date hour command manual](manualdate.png.png)
 ### CAL COMMAND OUTPUT
