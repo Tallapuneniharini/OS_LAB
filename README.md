@@ -1,4 +1,4 @@
-# BASIC UNIX COMMANDS PRACTISE OUTPUT
+AIM : BASIC UNIX COMMANDS PRACTISE OUTPUT
 ## GENERAL  COMMANDS OUTPUTS 
 ### DATE COMMAND OUTPUT
 ![date command output](mdate.png)   
@@ -174,6 +174,7 @@
 ### CHMOD COMMAND MANUAL
 ![chmod command manual](manualchmod.png.png)
 
+#CONCLUSION: The Study And Execution Of Unix Commands Has Been Completed Successfully.
 
 
 
