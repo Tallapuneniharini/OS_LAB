@@ -91,7 +91,7 @@
 ### CD .. COMMAND OUTPUT
 ![cd .. command output](mcd...png)
 ### CD .. COMMAND MANUAL
-![cd .. command manual](manualcd.png)
+![cd .. command manual](manualcd.png.png)
 ### RMDIR COMMAND OUTPUT
 ![rmdir command output](mrm1.png)
 ### RMDIR COMMAND MANUAL
