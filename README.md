@@ -166,11 +166,11 @@
 ### LS -L COMMAND MANUAL
 ![ls -l command manual](manualls.png.png)
 ### CMP COMMAND OUTPUT
-![cmp command output](mcmpfile1file2.png)
+![cmp command output](mcmpfile1file2.png.png)
 ### CMP COMMAND MANUAL
 ![cmp command manual](manualcmp.png.png)
 ### CHMOD COMMAND OUTPUT
-![chmod command output](mchmodg-r.png)
+![chmod command output](mchmodg-rfile.png)
 ### CHMOD COMMAND MANUAL
 ![chmod command manual](manualchmod.png.png)
 
