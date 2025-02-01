@@ -118,7 +118,7 @@
 ### CP -R COMMAND MANUAL
 ![cp -r command manual](manualcp.png.png)
 ### MV OLD NEW COMMAND OUTPUT
-![mv command output](mvoldnew.png)
+![mv command output](mmvoldnew.png)
 ### MV OLD NEW COMMAND MANUAL
 ![mv  command manual](manualmv.png.png)
 ### MV -V OLD NEW COMMAND OUTPUT
