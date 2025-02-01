@@ -106,11 +106,11 @@
 ### CAT >> COMMAND MANUAL 
 ![cat >> command manual](manualcat.png.png)
 ### CP COMMAND OUTPUT
-![cp command output](mcp.png)
+![cp command output](mcpsrcdes.png)
 ### CP COMMAND MANUAL
 ![cp command manual](manualcp.png.png)
 ### CP -I COMMAND OUTPUT
-![cp -i command output](mcp-isrcdes.png.png)
+![cp -i command output](mcp-isrcdes.png)
 ### CP -I COMMAND MANUAL
 ![cp -i command manual](manualcp.png.png)
 ### CP -R COMMAND OUTPUT
