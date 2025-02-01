@@ -98,7 +98,7 @@
 ![rmdir command manual](mrmdir.png)
 ## FILE COMMANDS
 ### CAT COMMAND OUTPUT
-![cat command output](mcat.png)
+![cat command output](mcatfilename.png)
 ### CAT COMMAND MANUAL
 ![cat command manual](manualcat.png.png)
 ### CAT >> COMMAND OUTPUT
