@@ -1,5 +1,7 @@
 **AIM :  Semaphores, Monitors, and Ports in Operating Systems**
-###Semaphore
+
+
+### Semaphore
 ![Semaphore output](exp4.png)   
-###Monitors
+### Monitors
 ![Monitors output](exp4b.png)  
