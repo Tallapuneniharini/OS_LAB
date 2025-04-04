@@ -104,6 +104,6 @@ int main() {
         // Exit the parent process
         exit(0);
     }
-'''
-![sceenshot].(exp2.png)
 }
+'''
+![screenshot].(exp2.png)
